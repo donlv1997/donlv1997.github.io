@@ -16,7 +16,7 @@ title: GreenWinter Blog
 SEOTitle: 绿冬的博客 | Dong Lyu's Blog
 header-img: img/home-bg.jpg
 email: dlv19@fudan.edu.cn
-description: "时间是摸出来的"
+description: "贴贴使人快乐"
 keyword: "blog"
 url: "https://donlv1997.github.io"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
@@ -25,8 +25,8 @@ baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 # SNS settings
 RSS: false
-weibo_username:     "银色秋千"
-zhihu_username:     "绿之冬"
+weibo_username: "银色秋千"
+zhihu_username: "lu-zhi-dong-64-3"
 github_username:    donlv1997
 #twitter_username:  huxpro
 #facebook_username:  huxpro
