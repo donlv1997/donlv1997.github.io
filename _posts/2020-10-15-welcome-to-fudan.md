@@ -7,7 +7,7 @@ author:     "donlv1997"
 header-img: "img/post-bg-2015.jpg"
 tags:
     - 复旦
-    -微电子学院
+    - 微电子学院
 ---
 
 # 复旦大学微电子学院欢迎您
