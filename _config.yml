@@ -12,7 +12,7 @@ kramdown:
   syntax_highlighter: rouge
 
 # Site settings
-title: XnChen Blog
+title: GreenWinter Blog
 SEOTitle: 绿冬的博客 | Dong Lyu's Blog
 header-img: img/home-bg.jpg
 email: dlv19@fudan.edu.cn
@@ -97,5 +97,9 @@ friends: [
     {
         title: "lab369",
         href: "http://lab.zhuzhuguowang.cn:36900/dokuwiki/doku.php/start"
+    },
+    {
+        title: "xnchen blog",
+        href: "https://kyokoning.github.io"
     }
 ]
