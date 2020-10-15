@@ -13,21 +13,21 @@ kramdown:
 
 # Site settings
 title: XnChen Blog
-SEOTitle: 陈雪凝的博客 | XnChen Blog
+SEOTitle: 绿冬的博客 | Dong Lyu's Blog
 header-img: img/home-bg.jpg
-email: xnchen19@fudan.edu.cn
+email: dlv19@fudan.edu.cn
 description: "时间是摸出来的"
 keyword: "blog"
-url: "http://kyokoning.github.io"              # your host, for absolute URL
+url: "http://donlv1997.github.io"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     "黑化养乐多"
+weibo_username:     "银色秋千"
 #zhihu_username:
-github_username:    kyokoning
+github_username:    donlv1997
 #twitter_username:  huxpro
 #facebook_username:  huxpro
 
