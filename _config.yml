@@ -1,16 +1,3 @@
-# my setting
-future: true
-
-# git settings
-lsi: false
-safe: true
-incremental: false
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
-
 # Site settings
 title: GreenWinter Blog
 SEOTitle: 绿冬的博客 | Dong Lyu's Blog
@@ -21,6 +8,8 @@ keyword: "blog"
 url: "https://donlv1997.github.io"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
+# my setting
+future: true
 
 
 # SNS settings
@@ -56,6 +45,12 @@ gems: [jekyll-paginate]
 markdown: kramdown
 kramdown:
   input: GFM                            # use Github Flavored Markdown !important
+  syntax_highlighter_opts:
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
 
 
 
